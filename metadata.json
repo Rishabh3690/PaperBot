@@ -1,0 +1,8 @@
+{
+  "name": "PaperBot",
+  "description": "Autonomous AI bot assistant for Paper.io with real-time computer vision and adaptive touch injection",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
